@@ -13,7 +13,7 @@ function legalChar(char) {
 export function explainResultChars() {
     console.log(`    🟨 Enter ${YELLOW_LETTER} for a yellow square.`);
     console.log(`    🟩 Enter ${GREEN_LETTER} for a green square.`);
-    console.log(`    ⬜ Enter ${GRAY_LETTER} for a gray square ◻️`);
+    console.log(`    ⬜ Enter ${GRAY_LETTER} for a gray square.`);
     console.log(`       Enter ${DO_NOTHING} to ignore this space.`);
 }
 
